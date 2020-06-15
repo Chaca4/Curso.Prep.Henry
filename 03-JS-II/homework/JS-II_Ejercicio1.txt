@@ -1,0 +1,6 @@
+1. for es una bucle donde se ejecuta un ciclo que terminará cuando su condicion de corte sea falsa.
+
+2.&&, ||, ! Son operadores lógicos:
+&& es un Y(AND) , compara las 2 expresiones y será true si y solo si ambas son true, de lo contrario será false.
+|| es un Ó(OR) , Será true si al menos una de las expresiones es true, sino sera False.
+! es un no(NOT), "niega" o cambia el valor del parametro.

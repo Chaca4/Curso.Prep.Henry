@@ -1,0 +1,1 @@
+Un Array es coleccion de elementos almacenados en forma de lista. Se puede acceder a ellos uno a uno, como tambien editar, agregar o quitar elementos cualquiera sea su tipo de dato (al menos como lo estamos viendo ahora en javascript). Incluso se puede formar un Array de Arrays y así empezar a formar estructuras de datos.

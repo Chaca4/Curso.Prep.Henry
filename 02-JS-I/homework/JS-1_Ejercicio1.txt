@@ -1,0 +1,9 @@
+Variables: Son un espacio donde se guardan datos/informacion.
+
+Strings: Es una cadena de caracteres. Un conjunto de letras, numeros, simbolos.
+
+Funciones (argumentos, return): Es un metodo de programacion en el cual se agrupan bloques de codigo para llevar a cabo una tarea. Puede pedir o no parametros(argumentos) y puede ser sólo un procedimiento o sino devolver(retornar) un valor en particular.
+
+Declaraciones if: Es un operador de control el cual ejecuta o no el código verificando la condicion.
+
+Valores booleanos (true, false): Son un tipo de dato que retorna un valor: Verdadero o Falso.
